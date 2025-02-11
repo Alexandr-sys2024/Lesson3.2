@@ -36,8 +36,8 @@ python main.py
 
 ## Контакты
 Если у вас есть вопросы или предложения, свяжитесь со мной:
-- Email: example@example.com
-- GitHub: [Alexandr-sys2024](https://github.com/Alexandr-sys2024)
+- Email: a.shubin2025@gmail.com
+- GitHub:https://github.com/Alexandr-sys2024
 
 ## Лицензия
 Этот проект распространяется под лицензией MIT. Подробнее смотрите в файле `LICENSE`.
